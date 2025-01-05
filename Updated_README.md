@@ -23,10 +23,6 @@ This repository contains an interactive HR Dashboard created in Microsoft Excel.
 3. **Use the Features**:
    - Utilize the slicers, pivot tables, and charts for detailed analysis.
 
-## Compatibility
-
-- Compatible with Microsoft Excel versions 2010 and later.
-- Older Excel versions may not fully support slicers.
 
 ## Insights
 
@@ -35,12 +31,3 @@ This repository contains an interactive HR Dashboard created in Microsoft Excel.
   - HR has the lowest employee count.
 - Use slicers to uncover additional insights.
 
-## Contributing
-
-Feel free to contribute by:
-- Adding additional features or data sources.
-- Reporting issues via GitHub's issue tracker.
-
-## License
-
-This file is shared under the MIT License. See the LICENSE file for details.
